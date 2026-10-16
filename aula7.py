@@ -1,3 +1,5 @@
+#Introdução a variáveis
+
 # Variáveis são usadas para salvar algo na memória do computador. Elas podem ser usadas para armazenar números, textos, listas, entre outros tipos de dados.
 # PEP8: inicie o nome de variáveis com letras minúsculas e use underline para separar palavras.
 # o sinal = é  o operador de atribuição, ele é usado para atribuir um valor a uma variável.

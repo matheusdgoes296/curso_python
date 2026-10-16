@@ -1,3 +1,5 @@
+#Exercício 1 - variaveis e tipos de dados
+
 nome = 'Matheus'
 sobrenome = 'Goes'
 idade = 30
