@@ -5,4 +5,5 @@ imc = weight / (height**2)
 
 print(name, 'have', height, 'height and', weight,'weight, so his IMC is', imc)
 
-# Matheus Goes gave 1.75 height and 98 weight, so his IMC is  
+# Matheus Goes have 1.75 height and 98 weight, so his IMC is ..
+#... You can use it as a placeholder until you add some code.
